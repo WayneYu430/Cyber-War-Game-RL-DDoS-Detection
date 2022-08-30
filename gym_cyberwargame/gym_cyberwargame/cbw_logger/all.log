@@ -1,0 +1,18 @@
+2022-07-14 12:39:37,233 - D:/Wayne_OMEN_Onedrive/OneDrive/Telecommunications/MSc Project/code/gym_cyberwargame/gym_cyberwargame/cbw_logger/cbw_logger.py[line:28] - DEBUG: debug
+2022-07-14 12:39:37,274 - D:/Wayne_OMEN_Onedrive/OneDrive/Telecommunications/MSc Project/code/gym_cyberwargame/gym_cyberwargame/cbw_logger/cbw_logger.py[line:29] - INFO: info
+2022-07-14 12:39:37,274 - D:/Wayne_OMEN_Onedrive/OneDrive/Telecommunications/MSc Project/code/gym_cyberwargame/gym_cyberwargame/cbw_logger/cbw_logger.py[line:30] - WARNING: 警告
+2022-07-14 12:39:37,275 - D:/Wayne_OMEN_Onedrive/OneDrive/Telecommunications/MSc Project/code/gym_cyberwargame/gym_cyberwargame/cbw_logger/cbw_logger.py[line:31] - ERROR: 报错
+2022-07-14 12:39:37,275 - D:/Wayne_OMEN_Onedrive/OneDrive/Telecommunications/MSc Project/code/gym_cyberwargame/gym_cyberwargame/cbw_logger/cbw_logger.py[line:32] - CRITICAL: 严重
+2022-07-14 12:39:59,486 - [line:28] - DEBUG: debug
+2022-07-14 12:39:59,486 - [line:29] - INFO: info
+2022-07-14 12:39:59,486 - [line:30] - WARNING: 警告
+2022-07-14 12:39:59,486 - [line:31] - ERROR: 报错
+2022-07-14 12:39:59,486 - [line:32] - CRITICAL: 严重
+2022-07-14 12:43:41,493 - [line:29] - DEBUG: [1, 2, 3]
+2022-07-14 12:43:41,494 - [line:33] - CRITICAL: 严重
+2022-07-14 12:44:17,927 - [line:30] - DEBUG: [1, 2, 3]
+2022-07-14 12:44:17,927 - [line:31] - DEBUG: {'1': 12, '2': 12}
+2022-07-14 12:44:33,471 - [line:32] - INFO: info
+2022-07-14 12:44:42,432 - [line:32] - INFO: {'1': 12, '2': 12}
+2022-07-14 16:14:08,326 - [line:32] - INFO: {'1': 12, '2': 12}
+2022-07-14 16:26:22,576 - [line:34] - INFO: get info{'1': 12, '2': 12}
